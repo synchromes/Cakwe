@@ -1,0 +1,23 @@
+translate indonesian milf_standart_talk_bdsm_079aaa6a:
+    # "Марина" "He-he-heh."
+    "Марина" "He-he-heh."
+
+translate indonesian strings:
+    old "Это функция принудительного запуска сцены по текущему квесту."
+    new "Ini fungsi untuk memaksa menjalankan adegan berdasarkan quest saat ini."
+    old "Использовать только в {b}крайних{/b} случаях, например, когда задание не проходимо из-за бага."
+    new "Gunakan hanya dalam kasus {b}darurat{/b}, misalnya saat quest tidak bisa dilanjutkan karena bug."
+    old "Извините, но данная функция не доступна для этого квеста."
+    new "Maaf, fungsi ini tidak tersedia untuk quest ini."
+    old "Перейти к "
+    new "Pergi ke "
+    old "Gantz"
+    new "Gantz"
+    old "Коровка"
+    new "Cowgirl"
+    old "DLC 1"
+    new "DLC 1"
+    old "DLC 2"
+    new "DLC 2"
+    old "Бондаж"
+    new "BDSM"
