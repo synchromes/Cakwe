@@ -1,4 +1,4 @@
-﻿# Milfs Plaza Indonesian Translation Memory
+# Milfs Plaza Indonesian Translation Memory
 
 ## Active Style Rules
 - Natural Bahasa Indonesia, not literal.
@@ -30,7 +30,7 @@
 
 ## Completed Source Files
 Progress basis: source files under `tl/eng/**/*.rpyc` = 370 total.
-Completed: 49/370 = 13.24%/100%.
+Completed: 317/370 = 85.68%/100%.
 
 Completed staging files:
 - `Indotranslate/core/BugReportSystem.rpy`
@@ -100,3 +100,64 @@ claude-mem worker mode currently: semantic search transport error; `observation_
 - Selesai 6 file kecil: `events/ep4/ep4_milf_44.rpy`, `events/biblio/biblio_1.rpy`, `events/dlc1/marina/beatch_seria_mar_4.rpy`, `events/ep5/ep5_milf_74.rpy`, `events/final_act/prison/prison_talk_with.rpy`, `events/ep2/ep2_4_5_igor.rpy`.
 - Progress file: 98/370 = 26.49%/100%.
 - Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+
+
+## Direct short call rule
+- When MC addresses mother directly, prefer Ma; use Mama for references/narration.
+
+
+## Glossary Clarification - Mama/Ma
+- Do not globally replace Mama with Ma.
+- Ma is only short direct vocative when natural (Enak sekali, Ma.).
+- Mama remains valid in direct address when it flows better (Mama, tunggu aku.) and for references/narration.
+## Latest Progress Update
+- Completed 2 medium files: `events/christie_roots/tyan_falos/tyan_falos_8.rpy`, `events/christie_roots/christie_root_60.rpy`.
+- Progress: 293/370 = 79.19%/100%.
+- QA: quote/bracket/brace OK; banned drift clear.
+- Next missing small/medium candidate: `events/additional_events/window_lvl_3/5.rpyc`.
+## Latest Progress Update
+- Completed `events/additional_events/window_lvl_3/5.rpy`.
+- Progress: 294/370 = 79.46%/100%.
+- QA: quote/bracket/brace OK; banned drift clear.
+- Next missing candidates by size: `events/susan_attack/susan_attack_6.rpyc`, `events/misha_roots/misha_root_5.rpyc`, `events/christie_roots/christie_root_21.rpyc`.
+## Latest Progress Update
+- Completed 3 medium files: `events/susan_attack/susan_attack_6.rpy`, `events/misha_roots/misha_root_5.rpy`, `events/christie_roots/christie_root_21.rpy`.
+- Progress: 297/370 = 80.27%/100%.
+- QA: quote/bracket/brace OK; banned drift clear.
+- Decompiler available locally at `..\tools\unrpyc\unrpyc.py`; use `py -3` for future dumps.
+- Next missing candidates by size: `events/ep3/pre_ep3_night_girl.rpyc`, `events/dlc1/main/beatch_seria_7.rpyc`, `events/misha_roots/misha_root_9.rpyc`.
+## Latest Progress Update
+- Completed 3 medium files: `events/ep3/pre_ep3_night_girl.rpy`, `events/dlc1/main/beatch_seria_7.rpy`, `events/misha_roots/misha_root_9.rpy`.
+- Progress: 300/370 = 81.08%/100%.
+- QA: quote/bracket/brace OK; batch explicit terms translated; no batch Mary/Marina/Ibu drift.
+- Next missing candidates by size: `events/milf_roots/milf_root_12.rpyc`, `events/biblio/biblio_14.rpyc`, `events/final_act/11_20/final_act_12.rpyc`.
+## Latest Progress Update
+- Completed `events/milf_roots/milf_root_12.rpy`, `events/biblio/biblio_14.rpy`, `events/final_act/11_20/final_act_12.rpy`.
+- Progress: 303/370 = 81.89%/100%.
+- QA: quote/bracket/brace OK.
+- Next candidates: `events/final_act/11_20/final_act_11.rpyc`, `events/ep2/ep2_11_film.rpyc`, `events/additional_events/window_lvl_3/3.rpyc`.
+## Latest Progress Update
+- Completed `events/ep2/ep2_11_film.rpy`, `events/final_act/11_20/final_act_11.rpy`, `events/additional_events/window_lvl_3/3.rpy`.
+- Progress: 306/370 = 82.7%/100%.
+- QA: quote/bracket/brace OK; no banned drift.
+- Next: `events/dlc1/marina/beatch_seria_mar_5.rpyc`, `events/ep45/ep45_milf_61.rpyc`, `events/christie_roots/christie_root_34.rpyc`.
+## Latest Progress Update
+- Completed `events/ep45/ep45_milf_61.rpy`, `events/christie_roots/christie_root_34.rpy`, `events/dlc1/marina/beatch_seria_mar_5.rpy`.
+- Progress: 309/370 = 83.51%/100%.
+- QA: quote/bracket/brace OK; no banned drift.
+- Next: `events/christie_roots/christie_root_36.rpyc`, `events/ep1/ep1_start.rpyc`, `events/christie_roots/christie_root_50.rpyc`.
+## Latest Progress Update
+- Completed `events/christie_roots/christie_root_36`, `events/ep1/ep1_start`, `events/christie_roots/christie_root_50`.
+- Progress: 312/370 = 84.32%/100%.
+- QA: OK.
+
+## Progress Update
+- Selesai 3 file: `events/dlc1/marina/beatch_seria_mar_7.rpy`, `events/biblio/biblio_23_sex.rpy`, `events/additional_events/window_lvl_2.rpy`.
+- Progress file: 315/370 = 85.14%/100%.
+- Validasi OK.
+
+## Progress Update
+- Selesai 2 file: `events/ep3/ep3_1_start.rpy`, `events/final_act/11_20/final_act_19.rpy` (Serta polish `events/ep1/ep1_5_mother_evening.rpy`).
+- Progress file: 317/370 = 85.68%/100%.
+- Validasi OK.
+

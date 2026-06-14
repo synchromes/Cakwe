@@ -1,4 +1,4 @@
-﻿# Progress Terjemahan Indonesia - Milf's Plaza
+# Progress Terjemahan Indonesia - Milf's Plaza
 
 Acuan gaya: `STYLE_ID.md`.
 
@@ -423,3 +423,85 @@ Acuan gaya: `STYLE_ID.md`.
   - `events/ep3/ep3_2_morning.rpy`
 - Progress file staging: 289 file `.rpy`; coverage sumber terhitung 284/370 (76.76%), dengan 86 file sumber masih belum dibuat.
 - Validasi semua file staging: quote/bracket/brace/string literal OK; banned drift clear; PyExpr residue clear; duplicate translate id clear.
+
+## Progress Update
+- Selesai screens.rpy UI/menu/help/preferences.
+- Coverage source: 288/370 = 77.84%/100%, missing 82 file sumber.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+
+## QA Correction
+- Cleaned remote glossary drift: replaced remaining Ibu/ibu/Ibuku/ibuku dialogue refs with Mama/Mamaku forms.
+- Revalidated after screens.rpy: quote/bracket/brace OK; banned drift clear.
+- Coverage source: 288/370 = 77.84%/100%, missing 82 file sumber.
+
+## Progress Update
+- Selesai events/ep45/ep45_milf_63.rpy (James/Ayah distraction plan, Mama + police dinner setup).
+- Coverage source: 289/370 = 78.11%/100%, missing 81 file sumber.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+
+## Progress Update
+- Selesai events/ep45/ep45_milf_49.rpy (Kat/Tamu Malam, info lokasi Igor, kerja sosial taman).
+- Note glossary: panggilan langsung mother tetap Ma; referensi mother tetap Mama.
+- Coverage source: 290/370 = 78.38%/100%, missing 80 file sumber.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear; English spot-check clear for new file.
+
+## Glossary Clarification
+- Mama jangan diganti global menjadi Ma.
+- Ma hanya panggilan pendek/vocative yang natural, contoh: Enak sekali, Ma.; Mama, tunggu aku. tetap boleh jika lebih nyambung.
+- Referensi/narasi tetap Mama.
+
+## Progress Update
+- Selesai events/christie_roots/christie_root_9.rpy (kopi Relax untuk Kak Christie, Zudilo/Bubnilo, misi parfum/mandi/seragam).
+- Clarification applied: Mama tetap valid; Ma hanya panggilan pendek natural.
+- Coverage source: 291/370 = 78.65%/100%, missing 79 file sumber.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear; English spot-check fixed.
+## Progress Update
+- Selesai 2 file sedang: `events/christie_roots/tyan_falos/tyan_falos_8.rpy`, `events/christie_roots/christie_root_60.rpy`.
+- Progress file: 293/370 = 79.19%/100%.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+- Catatan kualitas: batch sedang ideal 3-5 file; 10+ hanya untuk file kecil/simple agar tidak halusinasi.
+## Progress Update
+- Selesai 1 file sedang/panas: `events/additional_events/window_lvl_3/5.rpy`.
+- Progress file: 294/370 = 79.46%/100%.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+- Catatan istilah: `cum` -> keluar, `cock` -> kontol; `ma'am` unrelated diterjemahkan `Bu`, bukan panggilan Mama.
+## Progress Update
+- Selesai 3 file sedang: `events/susan_attack/susan_attack_6.rpy`, `events/misha_roots/misha_root_5.rpy`, `events/christie_roots/christie_root_21.rpy`.
+- Progress file: 297/370 = 80.27%/100%.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+- Catatan istilah: Susan explicit memakai `kontol`/`meniduri`; Misha hot ringan memakai `toket`; Christie route tetap `Kak Christie`.
+## Progress Update
+- Selesai 3 file sedang: `events/ep3/pre_ep3_night_girl.rpy`, `events/dlc1/main/beatch_seria_7.rpy`, `events/misha_roots/misha_root_9.rpy`.
+- Progress file: 300/370 = 81.08%/100%.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear untuk batch baru.
+- Catatan istilah: `tits` -> `toket`, `pussy` -> `memek`, `cock` -> `kontol`, `cum` -> `keluar/sperma` sesuai konteks, `blowjob` -> `minet`; Marina/Mary -> `Mama/Ma`, Christie -> `Kak Christie`.
+## Progress Update
+- Selesai 3 file: `events/milf_roots/milf_root_12.rpy`, `events/biblio/biblio_14.rpy`, `events/final_act/11_20/final_act_12.rpy`.
+- Progress file: 303/370 = 81.89%/100%.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+- Catatan: `blowjob` -> `sepong`; `cunnilingus` -> `jilmek`; Christie tetap `Kak` di adegan; Marina -> `Mama`.
+## Progress Update
+- Selesai 3 file: `events/ep2/ep2_11_film.rpy`, `events/final_act/11_20/final_act_11.rpy`, `events/additional_events/window_lvl_3/3.rpy`.
+- Progress file: 306/370 = 82.7%/100%.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+- Catatan: `Marina` speaker diganti `mama`; `Christie` speaker diganti `crs` -> tetap; `Ibu` sebagai kata benda diganti `Mama`.
+## Progress Update
+- Selesai 3 file: `events/ep45/ep45_milf_61.rpy`, `events/christie_roots/christie_root_34.rpy`, `events/dlc1/marina/beatch_seria_mar_5.rpy`.
+- Progress file: 309/370 = 83.51%/100%.
+- Validasi semua file staging: quote/bracket/brace OK; banned drift clear.
+- Catatan: Mama beach DLC (blowjob scene) menggunakan istilah `kontol`, `keluar`, `mengisap`.
+## Progress Update
+- Selesai 3 file: `events/christie_roots/christie_root_36.rpy`, `events/ep1/ep1_start.rpy`, `events/christie_roots/christie_root_50.rpy`.
+- Progress file: 312/370 = 84.32%/100%.
+- Validasi semua file staging OK.
+- Catatan: ep1_start = intro game (Texic + officer + Mama).
+## Progress Update
+- Selesai 3 file: `events/dlc1/marina/beatch_seria_mar_7.rpy`, `events/biblio/biblio_23_sex.rpy`, `events/additional_events/window_lvl_2.rpy`.
+- Progress file: 315/370 = 85.14%/100%.
+- Validasi OK.
+
+## Progress Update
+- Selesai 2 file: `events/ep3/ep3_1_start.rpy`, `events/final_act/11_20/final_act_19.rpy` (Serta polish `events/ep1/ep1_5_mother_evening.rpy`).
+- Progress file: 317/370 = 85.68%/100%.
+- Validasi OK.
+
